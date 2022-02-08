@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Q&S
+title: 漆满江&宋晓
 
 # Your name to show in the footer
-author: Some Person
+author: 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   我们的故事: "aboutme"
-  Resources:
+  一起走过得路:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  待定: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image
 
 
 # --- Footer social media links --- #
