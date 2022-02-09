@@ -118,7 +118,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/hello_world.png"
 #footer-img: "/assets/img/path.png"
-page-img: "/assets/img/thumb.png"
+#page-img: "/assets/img/thumb.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
