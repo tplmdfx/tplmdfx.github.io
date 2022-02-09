@@ -73,9 +73,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: flase
+  linkedin: flase
   vk: false
 
 # How to display the link to your website in the footer
@@ -86,7 +86,7 @@ url-pretty: "MyWebsite.com"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: flase
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
@@ -116,7 +116,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/hello_world.png"
+navbar-img: "/assets/img/hello_world.png"
 #footer-img: "/assets/img/path.png"
 #page-img: "/assets/img/thumb.png"
 
