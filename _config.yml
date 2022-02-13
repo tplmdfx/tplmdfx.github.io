@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img:  "/assets/img/avatar-icon.png"
+#title-img:  "/assets/img/avatar.jpg"
 
 
 # --- Footer social media links --- #
@@ -116,8 +116,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/OIP.jpg"
-footer-img: "/assets/img/hello_world.jpeg"
+navbar-img: "/assets/img/RR.jfif"
+footer-img: "/assets/img/footer.jpg"
 #page-img: "/assets/img/avatar-icon.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
