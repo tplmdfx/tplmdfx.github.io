@@ -16,9 +16,9 @@ author:
 navbar-links:
   我们的故事: "aboutme"
   一起走过得路:
-    - 老公视角
-    - 老婆视角
-  待定
+    - 老公视角: "https://beautifuljekyll.com"
+    - 老婆视角: "https://www.markdowntutorial.com/"
+  待定: "https://deanattali.com"
 
 # --- Logo --- #
 
